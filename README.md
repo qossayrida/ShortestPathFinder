@@ -23,7 +23,7 @@ This project implements Dijkstra’s and Breadth First Search (BFS) algorithms t
 ## Map of cities in the attached file
 
 <p align="center">
-  <img width="162" height="320" src="https://github.com/qossayrida/longestIncreasingSubsequence/assets/59481839/0386b071-f032-4144-8652-bd5c2c12430b">
+  <img src="https://github.com/qossayrida/longestIncreasingSubsequence/assets/59481839/0386b071-f032-4144-8652-bd5c2c12430b" alt="Map of cities">
 </p>
 
 
